@@ -1,0 +1,30 @@
+(NHI_checker 2017/09/15 21:01:15) Entry: ABC1234 - Invalid
+(NHI_checker 2017/09/15 21:01:18) Entry: ABC1235 - Valid
+(NHI_checker 2017/09/15 21:01:22) Entry: hello - Invalid
+(NHI_checker 2017/09/15 21:12:43) Entry: lllllllllllllll - Invalid
+(NHI_checker 2017/09/16 19:03:40) Entry: abc1234 - Invalid
+(NHI_checker 2017/09/16 19:03:43) Entry: abc1235 - Valid
+(NHI_checker 2017/09/16 19:04:58) Entry: abc1234 - Invalid
+(NHI_checker 2017/09/16 19:05:02) Entry: abc1235 - Valid
+(NHI_checker 2017/09/16 19:05:41) Entry: abc1234 - Invalid
+(NHI_checker 2017/09/16 19:05:44) Entry: abc1235 - Valid
+(NHI_checker 2017/09/16 19:08:18) Entry: abc1235 - Valid
+(NHI_checker 2017/09/16 22:15:32) luholkuj - Invalid
+(NHI_checker 2017/09/17 00:17:22) abc1234 - Invalid
+(NHI_checker 2017/09/17 00:17:25) Entry: abc1235 - Valid
+%(name)s : %(asctime)s : %(message)s
+%(name)s : %(asctime)s : %(message)s
+%(name)s:%(asctime)s:%(message)s
+%(name)s:%(asctime)s:%(message)s
+NHI_checker:2017/09/17 00:41:43:abc1234 : Invalid
+NHI_checker:2017/09/17 00:41:47:abc1235 : Valid
+NHI_checker-2017/09/17 00:52:00-abc1234-Invalid
+NHI_checker-2017/09/17 00:52:05-abc1235-Valid
+NHI_checker-2017/09/17-00:52:51-zzz016-Invalid
+NHI_checker-2017/09/17-00:52:56-zzz0016-Valid
+root 2017/09/17 01:05:11 ABC1234 Invalid
+root 2017/09/17 01:05:13 ABC1235 Valid
+2017/09/17 01:09:45 ABC1234 Invalid
+2017/09/17 01:09:46 ABC1235 Valid
+2017/09/17 01:35:22 ABC1234 Invalid
+2017/09/17 01:35:27 ABC1235 Valid
