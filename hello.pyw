@@ -18,7 +18,7 @@ class Checksum:
         self.button.pack(side=LEFT)
 
         lg.basicConfig(level=lg.INFO,
-                       filename='NHI.log',
+                       filename='../NHI.log',
                        style='{', format='{asctime} {message}',
                        datefmt='%Y/%m/%d %H:%M:%S')
         
